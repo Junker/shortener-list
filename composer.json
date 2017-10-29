@@ -1,0 +1,17 @@
+{
+    "name": "junker/shortener-list",
+    "description": "URL shortener list",
+    "keywords": ["url shortener","shortener"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Kosenkov",
+            "email": "dk-junker@ya.ru"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Junker" : "src/"
+        }
+    }
+}
