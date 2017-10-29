@@ -3,7 +3,7 @@ namespace Junker;
 
 class ShortenerList
 {
-	const FILE_PATH = __DIR__ . '/shorturl-services-list.txt';
+	const FILE_PATH = __DIR__ . '/../../res/shorturl-services-list.txt';
 
 	public static function getAll()
 	{
