@@ -1,6 +1,6 @@
 # ShortenerList
 
-PHP Library for detect shorteners domains 
+PHP Library for detect URL shorteners domains 
 
 ## Requirements
 - PHP >= 7.0
